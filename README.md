@@ -39,7 +39,7 @@
 
 ## 개인 블로그
 
-<div>* [My Velog]:(https://velog.io/@pixelstudio)</div>
+<div>* [GitHub Pages]:(https://graphite12.github.io/)</div>
 </div>* [My TistoryBlog]:(https://pstudio411.tistory.com)</div>
 
 <!---
