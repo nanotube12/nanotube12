@@ -3,22 +3,10 @@
 
 
 ## Stack
-### [FrontEnd]<br />
+### [LANG] 
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor"></img>
 <img src="https://img.shields.io/badge/-TypeScriptt-blue?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-React Hook-blue?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-CSS3-Blue?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-NodeJS-Blue?style=for-the-badge&logo=appveyor"></img>
 
-### [BackEnd]<br />
-<img src="https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-NestJS-success?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-Mssql-9cf?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-TypeORM-yellowgreen?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-GraphQL-blueviolet?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-AWS EC2-critical?style=for-the-badge&logo=appveyor"></img>
-<img src="https://img.shields.io/badge/-AWS CloudFront-critical?style=for-the-badge&logo=appveyor"></img>
 
 ## 사용중인 장비
 ### **1. HP Elitebook G7 855**
