@@ -8,22 +8,6 @@
 <img src="https://img.shields.io/badge/-TypeScriptt-blue?style=for-the-badge&logo=appveyor"></img>
 
 
-## 사용중인 장비
-### **1. HP Elitebook G7 855**
-
-```js
-- AMD Ryzen R5-4650U 6C-12Th
-- Samsung LDDR4 16GB
-- SSD 256GB
-```
-
-### **APPLE M1 Mac Air**
-```js
-- Apple Sillicon M1 
-- 16GB
-- Nvidia RTX 3060 Max-q
-- Samgsung PM981 500 + 500 = 1TB
-```
 
 ## 개인 블로그
 
