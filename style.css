@@ -1,3 +1,4 @@
+/* CSS initial */
 body {
   margin: 0;
   padding: 0;
@@ -5,7 +6,7 @@ body {
 
 header {
   text-align: center;
-  margin: auto 0%;
+  margin: 1% 0;
 }
 
 main,
@@ -14,20 +15,41 @@ section {
   display: flex;
 }
 
+/* page space setting */
 main,
 main > .grp_main {
   flex-direction: column;
+
   margin: auto 3% 4% 3%;
 }
 
+/* grp_main_top */
+
 .grp_contact_box {
   flex-direction: row;
+
   border-radius: 10px;
-  border: 1px black solid;
+  /*border: 1px black solid; */
+
+  padding: 1%;
+}
+
+.grp_contact_box > .grp_contact_box_profile {
+  width: 250px;
+  height: 300px;
+}
+
+.grp_contact_box > .grp_contact_box_info {
 }
 
 .grp_edu_box {
   flex-direction: column;
 }
-.grp_main {
+
+.grp_edu_box > .grp_edu_inner_box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
+
+/* grp_main_middle */
