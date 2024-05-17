@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  margin: auto 0%;
+}
+
+main,
+article,
+section {
+  display: flex;
+}
+
+main,
+main > .grp_main {
+  flex-direction: column;
+  margin: auto 3% 4% 3%;
+}
+
+.grp_contact_box {
+  flex-direction: row;
+  border-radius: 10px;
+  border: 1px black solid;
+}
+
+.grp_edu_box {
+  flex-direction: column;
+}
+.grp_main {
+}
