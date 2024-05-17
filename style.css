@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 /* CSS initial */
+
 body {
   margin: 0;
   padding: 0;
+
+  /* 폰트 */
+  font-family: 'Noto Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 header {
@@ -16,22 +24,17 @@ section {
 }
 
 /* page space setting */
-main,
-main > .grp_main {
+main {
   flex-direction: column;
 
-  margin: auto 3% 1% 3%;
+  margin: 2% 5%;
+  width: 100%;
 }
 
 /* grp_main_top */
 
-.grp_contact_box {
-  flex-direction: row;
-
-  border-radius: 10px;
-  /*border: 1px black solid; */
-
-  padding: 1%;
+.grp_main_top {
+  justify-content: flex-start;
 }
 
 .grp_contact_box > .grp_contact_box_profile {
@@ -42,17 +45,23 @@ main > .grp_main {
   border: 1px black solid;
 }
 
-.grp_contact_box > .grp_contact_box_info {
-}
-
 .grp_edu_box {
   flex-direction: column;
+  align-items: center;
 }
 
 .grp_edu_box > .grp_edu_inner_box {
   display: flex;
   flex-direction: row;
-  justify-content: center;
 }
 
 /* grp_main_middle */
+.grp_main_middle {
+  flex-direction: row;
+}
+
+.grp_main_middle > section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
